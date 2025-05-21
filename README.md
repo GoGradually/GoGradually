@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<h1 align="center">
+  <a href="https://go-gradually.me">ABOUT ME</a>
+</h1>
 <!--
 **GoGradually/GoGradually** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
